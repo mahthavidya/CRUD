@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CRUD-Operation-In-React/static/css/main.2eef5726.chunk.css",
+    "main.js": "/CRUD-Operation-In-React/static/js/main.f9d7655f.chunk.js",
+    "main.js.map": "/CRUD-Operation-In-React/static/js/main.f9d7655f.chunk.js.map",
+    "runtime-main.js": "/CRUD-Operation-In-React/static/js/runtime-main.22542a35.js",
+    "runtime-main.js.map": "/CRUD-Operation-In-React/static/js/runtime-main.22542a35.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/CRUD-Operation-In-React/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.cb3a3cd2.chunk.js": "/CRUD-Operation-In-React/static/js/2.cb3a3cd2.chunk.js",
+    "static/js/2.cb3a3cd2.chunk.js.map": "/CRUD-Operation-In-React/static/js/2.cb3a3cd2.chunk.js.map",
+    "static/js/3.6ddfa3e8.chunk.js": "/CRUD-Operation-In-React/static/js/3.6ddfa3e8.chunk.js",
+    "static/js/3.6ddfa3e8.chunk.js.map": "/CRUD-Operation-In-React/static/js/3.6ddfa3e8.chunk.js.map",
+    "index.html": "/CRUD-Operation-In-React/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/CRUD-Operation-In-React/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.2eef5726.chunk.css.map": "/CRUD-Operation-In-React/static/css/main.2eef5726.chunk.css.map",
+    "static/js/2.cb3a3cd2.chunk.js.LICENSE.txt": "/CRUD-Operation-In-React/static/js/2.cb3a3cd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22542a35.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.cb3a3cd2.chunk.js",
+    "static/css/main.2eef5726.chunk.css",
+    "static/js/main.f9d7655f.chunk.js"
+  ]
+}
